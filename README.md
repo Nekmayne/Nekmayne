@@ -1,4 +1,6 @@
-<font size="30"> Hi :wave: welcome to my profile </font>
+<span style="color:green;font-weight:700;font-size:20px">
+    Hi 👋 welcome to my profile
+</span>
 
 💻 I like coding in my freetime
 
