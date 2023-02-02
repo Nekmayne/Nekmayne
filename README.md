@@ -10,7 +10,10 @@
 
 <p align="center"> 👨‍🎓 Always looking to learn more.
   
-
+### <p align="center"> Check out my personal website: https://nekmayne.github.io/personal-website/
+  
+&nbsp;
+  
 # <p align="center"> 💻 Technologies Stack 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
