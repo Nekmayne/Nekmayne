@@ -1,4 +1,6 @@
-Hi :wave: welcome to my profile. My name is Joonas Niskanen and I am passionate about coding!
+# About me
+
+## Hi :wave: welcome to my profile!
 
 💻 I like coding in my freetime
 
