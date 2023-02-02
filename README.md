@@ -1,6 +1,4 @@
-# About me
-
-## Hi :wave: welcome to my profile!
+<font size="30"> Hi :wave: welcome to my profile </font>
 
 💻 I like coding in my freetime
 
