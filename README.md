@@ -1,14 +1,17 @@
-<p align="center"> Hi 👋 Welcome to my profile! </p>
+# <p align="center"> Hi 👋 Welcome to my profile! </p>
 
-💻 I like coding in my freetime
 
-🤵 I have some experience in working with agile methods.
 
-🏋️‍♂️ I like doing sports such as Calisthenics, running, disc golfing...
+<p align="center"> 💻  I like coding in my freetime
 
-👨‍🎓 Always looking to learn more.
+<p align="center"> 🤵  I have some experience in working with agile methods.
 
-## Technologies Stack
+<p align="center"> 🏋️‍♂️ I like doing sports such as Calisthenics, running, disc golfing...
+
+<p align="center"> 👨‍🎓 Always looking to learn more.
+  
+
+# <p align="center"> 💻 Technologies Stack 💻
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
