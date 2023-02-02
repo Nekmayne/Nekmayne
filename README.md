@@ -1,6 +1,4 @@
-<span style="color:green;font-weight:700;font-size:20px">
-    Hi 👋 welcome to my profile
-</span>
+<p align="center"> Hi 👋 Welcome to my profile! </p>
 
 💻 I like coding in my freetime
 
